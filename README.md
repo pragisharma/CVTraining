@@ -1,4 +1,4 @@
-### Automation Training
+# Automation Training
 
 Hey, welcome to automation training this year! 
 
