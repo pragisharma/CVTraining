@@ -1,4 +1,4 @@
-## CVTraining
+## Automation Training
 
 Hey, welcome to automation training this year! 
 
